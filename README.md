@@ -12,7 +12,7 @@ for different watch.
 ## Documentation
 
 - [requests](https://requests.readthedocs.io/en/latest/)
-- [requests](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
 ## Authors
